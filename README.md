@@ -107,12 +107,12 @@ After peering was enabled:
 ## Screenshots
 
 ### Azure Virtual Machine – East US
-![Azure VNet Peering](screenshots/azure-vnet-peering-multiregion.png)
+![Azure VNet Peering](screenshots/azure-peering-from-different-regions.png)
 
 ---
 
 ## Video Demonstration
-▶️[Watch Azure VNet Peering Multi-Region Demo]()
+▶️[Watch Azure VNet Peering Multi-Region Demo](https://youtu.be/8m-lzYCTjNA)
 
 ## Key Learnings
 - Azure VNet communication behaviour
